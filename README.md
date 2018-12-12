@@ -3,7 +3,7 @@ Resize images so they're smaller
 
 ### Prequisites
 
-- You need GraphicsMagick. `brew install imagemagick graphicsmagick` if on Mac.
+- You need ImageMagick and GraphicsMagick. `brew install imagemagick graphicsmagick` if on Mac.
 - Run `npm install` to install the necessary packages.
 
 ### Usage
