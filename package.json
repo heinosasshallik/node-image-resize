@@ -1,0 +1,13 @@
+{
+  "name": "image-upload",
+  "description": "image-upload",
+  "version": "0.1.0",
+  "author": "sass",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "gm": "^1.23.0",
+    "readable-stream-clone": "0.0.4"
+  }
+}
