@@ -1,5 +1,5 @@
 # node-image-resize
-Resize images so they're smaller
+Resize images so they're smaller. They will be resized so the width is 1000px. The height-width ratio will stay the same.
 
 ### Prequisites
 
